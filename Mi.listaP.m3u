@@ -1,0 +1,41 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="Testador IPTV", Gerado por Testador IPTV(PlayStore)
+https://play.google.com/store/apps/details?id=thalles.org.testadoriptv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/78KfOGOqXvTja8lRFwgjmkprRmI.jpg" group-title="PELICULAS DE COMEDIAS", Un hipster en la España vacía (2024)
+http://planettvweb.com:8091/movie/PabloLax/SPef4263/99130.mkv
+
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/A/atres-series-logo-3BA3503760-seeklogo.com.png" group-title="ESPAÑA", A3 Series HD
+http://planettvweb.com:8091/PabloLax/SPef4263/16539
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-Bein-sports-N.png" group-title="DEPORTES ESPAÑA", BEIN SPORT SP
+http://planettvweb.com:8091/PabloLax/SPef4263/12051
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-EUROSPORT.png" group-title="DEPORTES ESPAÑA", CANAL EURO SPORTS HD
+http://planettvweb.com:8091/PabloLax/SPef4263/12497
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-EUROSPORT.png" group-title="DEPORTES ESPAÑA", EUROSPORT 2
+http://planettvweb.com:8091/PabloLax/SPef4263/14263
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-DAZN.png" group-title="DEPORTES ESPAÑA", Dazn La lig@
+http://planettvweb.com:8091/PabloLax/SPef4263/11910
+
+#EXTINF:-1 tvg-logo="https://tvalcolea.com/wp-content/uploads/2018/03/iberalia.jpg" group-title="DEPORTES ESPAÑA", IBERALIA TV
+http://planettvweb.com:8091/PabloLax/SPef4263/12113
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-CAZA-Y-PESCA.png" group-title="DEPORTES ESPAÑA", CAZA Y PESCA HD
+http://planettvweb.com:8091/PabloLax/SPef4263/11909
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-DAZN.png" group-title="DEPORTES ESPAÑA", Dazn Lalig@ 2 HD
+http://planettvweb.com:8091/PabloLax/SPef4263/12498
+
+#EXTINF:-1 tvg-logo="https://www.giztele.com/wp-content/uploads/2018/06/Movistar-Deportes.png" group-title="DEPORTES ESPAÑA", MOVISTAR DEPORTES
+http://planettvweb.com:8091/PabloLax/SPef4263/12049
+
+#EXTINF:-1 tvg-logo="https://static.motor.es/fotos-noticias/2018/03/min652x435/movistar-f1-confirma-equipo-retransmision-temporada-2018-201844563_1.jpg" group-title="DEPORTES ESPAÑA", MOVISTAR F1
+http://planettvweb.com:8091/PabloLax/SPef4263/12048
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuVXSkg-Wvk4MuZZDVby4AUdKHgYWBfC0PVmwjWAxdGlQUohl0" group-title="DEPORTES ESPAÑA", MOVISTAR GOLF
+http://planettvweb.com:8091/PabloLax/SPef4263/12047
+
